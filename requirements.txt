@@ -2,3 +2,5 @@ streamlit
 matplotlib
 pandas
 numpy
+qiskit
+qiskit-ibm-provider
